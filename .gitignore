@@ -131,3 +131,6 @@ dmypy.json
 # Input and output folder
 /input
 /output
+
+#IDE
+.vscode/
